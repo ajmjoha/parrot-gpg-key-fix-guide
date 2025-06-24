@@ -91,27 +91,8 @@ pub   rsa4096 2021-03-19 [SC] [expires: 2026-03-18]
 uid           [ unknown] Parrot Security Archive Automatic Signing Key
 ```
 
----
 
-## 🛠️ Maintainer
-
-**[AJM Joha](https://github.com/ajmjoha)**  
-Email: [ajmjohaa@gmail.com](mailto:ajmjohaa@gmail.com)  
-LinkedIn: [in/ajmjoha](https://linkedin.com/in/ajmjoha)
-
----
-
-## 🏷️ SEO Keywords
-
-- `NO_PUBKEY Parrot OS fix`
-- `GPG key error 7A8286AF0E81EE4A`
-- `apt update GPG error`
-- `trusted.gpg.d fix`
-- `Parrot OS package verification fix`
-
----
-
-## 💡 Pro Tip
+## 💡 Tips
 
 Avoid using `apt-key` in 2025 and beyond. It's deprecated and insecure. Stick with `.gpg` keyring method.
 
